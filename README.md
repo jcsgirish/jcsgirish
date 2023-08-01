@@ -1,10 +1,4 @@
-copied
 
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jcs Girish</h1>
 <h3 align="center">frontend developer</h3>
 
