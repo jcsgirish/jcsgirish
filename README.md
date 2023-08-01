@@ -1,4 +1,4 @@
-[![MasterHead]https://irfantariq.com/images/banner.gif)](http://jcsgirish.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jcs Girish</h1>
 <h3 align="center">frontend developer</h3>
 
