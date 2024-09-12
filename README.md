@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
 
 <h1 align="center">Hi 👋, I'm Jcs Girish</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<h3 align="center"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcsgirish&label=Profile%20views&color=0e75b6&style=flat" alt="jcsgirish" /> </p>
