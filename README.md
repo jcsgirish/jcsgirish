@@ -38,27 +38,13 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
-  <a href="https://testng.org/doc/documentation.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="testng" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-icon.svg" alt="cucumber" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/docs/guides/gherkin/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gherkin_logo.svg" alt="gherkin" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/documentation/grid/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-grid-icon.svg" alt="seleniumgrid" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
