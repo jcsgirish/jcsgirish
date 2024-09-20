@@ -1,7 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
 
 <h1 align="center">Hi 👋, I'm Jcs Girish</h1>
-<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcsgirish&label=Profile%20views&color=0e75b6&style=flat" alt="jcsgirish" /> </p>
 
@@ -53,6 +52,9 @@
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-icon.svg" alt="cucumber" width="40" height="40"/>
+  </a>
+  <a href="https://cucumber.io/docs/guides/gherkin/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gherkin_logo.svg" alt="gherkin" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/documentation/grid/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/selenium/selenium-grid-icon.svg" alt="seleniumgrid" width="40" height="40"/>
